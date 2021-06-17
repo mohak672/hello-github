@@ -4,6 +4,8 @@ import java.util.Map;
 public class MyDictionary {
     Map<String, String> wordMap;
 
+public void add(){}
+
     public MyDictionary() {
         wordMap = new HashMap<String, String>();
     }
