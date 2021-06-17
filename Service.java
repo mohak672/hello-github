@@ -1,6 +1,8 @@
 public class Service {
     private Database database;
 
+public void print(){}
+
     public Service(Database database){
         this.database = database;
     }
